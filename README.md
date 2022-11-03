@@ -1,5 +1,5 @@
-# Ui Design
-Projetos de UI Design - cursos e treinos
+# Ui Design # Ux Design
+Projetos de UI | UX Design - cursos e treinos
 
 Projeto (mobile) - DeployUX <br>
 Handel - Origamid <br>
